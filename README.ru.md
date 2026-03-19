@@ -8,7 +8,7 @@
 
 **Скачать:** [Последний релиз](https://github.com/ai-meatbags/codex-limits-menubar/releases/latest) · [Прямой macOS zip](https://github.com/ai-meatbags/codex-limits-menubar/releases/latest/download/CodexLimitsMenuBar-macos-latest.zip)
 
-![Скриншот Codex Limits Menu Bar](docs/images/menubar-screenshot.png)
+![Скриншот Codex Limits Menu Bar](docs/images/menubar-screenshot-2026-03-19.png)
 
 ## Зачем это нужно
 

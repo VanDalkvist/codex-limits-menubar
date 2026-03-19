@@ -8,7 +8,7 @@ It reads usage data from your local `codex` installation and keeps the signal vi
 
 **Download:** [Latest release](https://github.com/ai-meatbags/codex-limits-menubar/releases/latest) · [Direct macOS zip](https://github.com/ai-meatbags/codex-limits-menubar/releases/latest/download/CodexLimitsMenuBar-macos-latest.zip)
 
-![Codex Limits Menu Bar screenshot](docs/images/menubar-screenshot.png)
+![Codex Limits Menu Bar screenshot](docs/images/menubar-screenshot-2026-03-19.png)
 
 ## Why this exists
 
